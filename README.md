@@ -1,3 +1,5 @@
+Neurodevelopmental Disorder prediction
+
 Attention-Deficit/Hyperactivity Disorder (ADHD) is a prevalent type of neurodevelopmental disorder (NDD) that affects attention regulation, impulse control, and hyperactivity. In this research, the ADHD dataset was acquired from the widely used ADHD-200 portal, which provides neuroimaging data in functional magnetic resonance imaging (fMRI) format. The fMRI data captures the brain's functional activity by measuring changes in blood flow, allowing the study of neural connectivity patterns associated with ADHD.
 
 To process and analyze this complex fMRI data, a combination of Group Independent Component Analysis (grouped ICA) and Group Dictionary Learning (grouped DL) techniques was employed. These methods are crucial in reducing the dimensionality of the data and extracting meaningful features by identifying common patterns across the dataset, which consists of time-series data reflecting neural activity over time.
